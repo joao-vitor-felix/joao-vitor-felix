@@ -53,7 +53,7 @@ Olá, me chamo João Vitor! Sou desenvolvedor front-end, apaixonado por programa
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />]()
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />]([https://www.linkedin.com/in/valentinbriand42](https://www.linkedin.com/in/joao-vitor-felix/))
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/joao-vitor-felix/)
 
 [tech_tools_anchor]: #ola--
 [learning_now_anchor]: #learning-now
