@@ -2,7 +2,6 @@
 
 Olá, me chamo João Vitor! Sou desenvolvedor front-end, apaixonado por programação, música e futebol.
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 
 ## 🛠  Technologies and tools
 
