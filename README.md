@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Estou atualmente trabalhando em [csgo-skin-ecommerce](https://github.com/joao-vitor-felix/csgo-e-commerce)
+- 🔭 Estou atualmente trabalhando em [csgo-e-commerce](https://github.com/joao-vitor-felix/csgo-e-commerce)
 
 - 🌱 Estou atualmente aprendendo **Typescript**
 
 - 📫 Contato **joaovitorfelixcontato@gmail.com**
 
-- ⚡ Fun fact **Costumava fazer música como produtor musical**
+- ⚡ Fun fact **Costumava fazer música como produtor musical antes de se tornar desenvolvedor**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
