@@ -9,7 +9,7 @@
 
 - 🔭 Estou atualmente trabalhando em [csgo-e-commerce](https://github.com/joao-vitor-felix/csgo-e-commerce)
 
-- 🌱 Estou atualmente aprendendo **Typescript**
+- 🌱 Estou atualmente aprendendo **Jest, React Testing Library**
 
 - 📫 Contato **joaovitorfelixcontato@gmail.com**
 
