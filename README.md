@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Estou atualmente trabalhando em [marvel-comics]([https://github.com/joao-vitor-felix/csgo-e-commerce](https://github.com/joao-vitor-felix/marvel-comics))
+- 🔭 Estou atualmente trabalhando em [marvel-comics]([https://github.com/joao-vitor-felix/marvel-comics])
 
 - 🌱 Estou atualmente aprendendo **Cypress e Next.js**
 
