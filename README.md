@@ -7,7 +7,7 @@ Com sede de conhecimento, mergulhei em diversos cursos e projetos, aprimorando m
 
 Atualmente, estou estudando a fundo o Next.js e começando a me aventurar no Back-End com Node.js. Adoro trabalhar em projetos desafiadores e busco sempre me atualizar com as últimas tendências do desenvolvimento web.
 
-Vamos conectar e trocar ideias sobre o mundo da tecnologia!</p>
+Vamos trocar ideias sobre o mundo da tecnologia!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joao-vitor-felix&label=Profile%20views&color=0e75b6&style=flat" alt="joao-vitor-felix" /> </p>
 
