@@ -3,17 +3,13 @@
 
  Desenvolvedor web apaixonado por construir experiências digitais incríveis! Desde que iniciei minha jornada no curso de Sistemas para Internet na Faculdade Descomplica em Abril de 2022, mergulhei de cabeça no mundo do desenvolvimento web. Inicialmente, fui apresentado ao Portugol, Java e conceitos de UI/UX, mas logo descobri minha verdadeira paixão: o desenvolvimento Front-End.
 
-Com sede de conhecimento, mergulhei em diversos cursos e projetos, aprimorando minhas habilidades em HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React, Next.js, Redux, styled-components, Jest, React Testing Library, Cypress, API RESTful, GraphQL, Git e Figma. A cada dia, fico mais fascinado com as possibilidades do que podemos criar na web!
+Com sede de conhecimento, mergulhei em diversos cursos e projetos, aprimorando minhas habilidades em HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React, Next.js, Redux, styled-components, Jest, React Testing Library, Cypress, API RESTful, GraphQL, Docker, Git e Figma. A cada dia, fico mais fascinado com as possibilidades do que podemos criar na web!
 
 Atualmente, estou estudando a fundo o Next.js e começando a me aventurar no Back-End com Node.js. Adoro trabalhar em projetos desafiadores e busco sempre me atualizar com as últimas tendências do desenvolvimento web.
 
 Vamos trocar ideias sobre o mundo da tecnologia!</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joao-vitor-felix&label=Profile%20views&color=0e75b6&style=flat" alt="joao-vitor-felix" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joao-vitor-felix" alt="joao-vitor-felix" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
 - 🔭 Estou atualmente trabalhando em [club-clothing](https://github.com/joao-vitor-felix/club-clothing)
 
@@ -40,8 +36,17 @@ Vamos trocar ideias sobre o mundo da tecnologia!</p>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
     <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-64x64.png" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joao-vitor-felix&label=Profile%20views&color=0e75b6&style=flat" alt="joao-vitor-felix" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joao-vitor-felix" alt="joao-vitor-felix" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-vitor-felix&show_icons=true&locale=en&layout=compact" alt="joao-vitor-felix" /></p>
 
