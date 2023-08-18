@@ -15,9 +15,9 @@ Vamos trocar ideias sobre o mundo da tecnologia!</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Estou atualmente trabalhando em [travelling](https://github.com/joao-vitor-felix/travelling)
+- 🔭 Estou atualmente trabalhando em [club-clothing](https://github.com/joao-vitor-felix/club-clothing)
 
-- 🌱 Estou atualmente aprendendo **Next.js**
+- 🌱 Estou atualmente aprendendo **Next.js & Node.js**
 
 - 📫 Contato **joaovitorfelixcontato@gmail.com**
 
