@@ -15,9 +15,9 @@ Vamos trocar ideias sobre o mundo da tecnologia!</p>
 
 - 🌱 Estou atualmente aprendendo **Next.js & Node.js**
 
-- 📫 Contato **joaovitorfelixcontato@gmail.com**
+- 📫 Contato: **joaovitorfelixcontato@gmail.com**
 
-- ⚡ Fun fact **Costumava fazer música como produtor musical antes de se tornar desenvolvedor**
+- ⚡ Fun fact: **Costumava fazer música como produtor musical antes de se tornar desenvolvedor**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
