@@ -11,7 +11,7 @@ Vamos trocar ideias sobre o mundo da tecnologia!</p>
 
 ---
 
-- 🔭 Estou atualmente trabalhando em [club-clothing](https://github.com/joao-vitor-felix/club-clothing)
+- 🔭 Estou atualmente trabalhando em **[club-clothing](https://github.com/joao-vitor-felix/club-clothing)**
 
 - 🌱 Estou atualmente aprendendo **Next.js & Node.js**
 
