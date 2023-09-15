@@ -3,7 +3,7 @@
 
  Desenvolvedor web apaixonado por construir experiências digitais incríveis! Desde que iniciei minha jornada no curso de Sistemas para Internet na Faculdade Descomplica em Abril de 2022, mergulhei de cabeça no mundo do desenvolvimento web. Inicialmente, fui apresentado ao Portugol, Java e conceitos de UI/UX, mas logo descobri minha verdadeira paixão: o desenvolvimento Front-End.
 
-Com sede de conhecimento, mergulhei em diversos cursos e projetos, aprimorando minhas habilidades em HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React, Next.js, Redux, styled-components, Jest, React Testing Library, Cypress, API RESTful, GraphQL, Docker, Git e Figma. A cada dia, fico mais fascinado com as possibilidades do que podemos criar na web!
+Com sede de conhecimento, mergulhei em diversos cursos e projetos, aprimorando minhas habilidades em HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React, Next.js, Redux, styled-components, Node.js, Jest, React Testing Library, Cypress, API RESTful, GraphQL, Docker, Git e Figma. A cada dia, fico mais fascinado com as possibilidades do que podemos criar na web!
 
 Atualmente, estou estudando a fundo o Next.js e começando a me aventurar no Back-End com Node.js. Adoro trabalhar em projetos desafiadores e busco sempre me atualizar com as últimas tendências do desenvolvimento web.
 
