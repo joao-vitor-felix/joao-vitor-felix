@@ -11,9 +11,9 @@ Vamos trocar ideias sobre o mundo da tecnologia!</p>
 
 ---
 
-- 🔭 Estou atualmente trabalhando em **[Traveling](https://github.com/joao-vitor-felix/traveling)**
+- 🔭 Estou atualmente trabalhando em **[Prime](https://github.com/joao-vitor-felix/prime)**
 
-- 🌱 Estou atualmente aprendendo **Next.js & Node.js**
+- 🌱 Estou atualmente aprendendo **Node.js**
 
 - 📫 Contato: **joaovitorfelixcontato@gmail.com**
 
