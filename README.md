@@ -13,7 +13,7 @@ Vamos trocar ideias sobre o mundo da tecnologia!</p>
 
 - 🔭 Estou atualmente trabalhando em **[Prime](https://github.com/joao-vitor-felix/prime)**
 
-- 🌱 Estou atualmente aprendendo **Node.js**
+- 🌱 Estou atualmente aprendendo **Next.js**
 
 - 📫 Contato: **joaovitorfelixcontato@gmail.com**
 
