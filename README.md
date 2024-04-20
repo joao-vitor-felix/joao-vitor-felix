@@ -39,6 +39,7 @@ Vamos conectar e trocar ideias sobre o mundo da tecnologia!</p>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://logospng.org/download/node-js/logo-node-js-1024.png" alt="redux" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-64x64.png" width="40" height="40"/> </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://uploads-ssl.webflow.com/62d9b9c78f111f03f778e150/644b52b843a3f6addffd6456_cypress.png" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="40" height="40"/> </a>
