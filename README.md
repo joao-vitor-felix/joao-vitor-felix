@@ -9,14 +9,6 @@ Vamos conectar e trocar ideias sobre o mundo da tecnologia!</p>
 
 ---
 
-- 🔭 Estou atualmente trabalhando em **[Prime](https://github.com/joao-vitor-felix/prime)**
-
-- 🌱 Estou atualmente me aprimorando em **Next.js** 
-
-- 📫 Contato: **joaovitorfelixcontato@gmail.com**
-
-- ⚡ Fun fact: **Costumava fazer música como produtor musical antes de se tornar desenvolvedor**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joao-vitor-felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao-vitor-felix" height="30" width="40" /></a>
