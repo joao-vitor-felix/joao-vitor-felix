@@ -1,11 +1,7 @@
 <h1 align="center">Olá 👋, sou o João Vitor!</h1>
-<p align="center">
-
-Desenvolvedor web apaixonado por transformar ideias em código! Desde que iniciei minha jornada no curso de Sistemas para Internet na Faculdade Descomplica em Abril de 2022, entrei de cabeça no mundo do desenvolvimento web. Inicialmente, fui apresentado ao Portugol, Java e conceitos de UI/UX, mas logo descobri minha verdadeira paixão: o desenvolvimento Front-End.
-
-Com uma direção a seguir, fiz vários cursos e projetos para aprimorar minhas habilidades em HTML5, CSS3, SASS, JavaScript (ES6+), TypeScript, React, Next.js, Node.js, Redux, Tailwind CSS, styled-components, Emotion, Jest, React Testing Library, Cypress, API RESTful, PostgreSQL, SQL, Git, Docker e Figma. A cada dia, fico mais fascinado com as possibilidades do que podemos criar na web!
-
-Vamos conectar e trocar ideias sobre o mundo da tecnologia!</p>
+<p>
+Desenvolvedor web com mais de 2 anos de experiência em JavaScript e tecnologias front-end.
+</p>
 
 ---
 
